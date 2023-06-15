@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World from Configrepo
+  list:
+    values: One, Two, Three, Four
+
+db:
+  connection: test-connection-string-configrepo
+  host: "129.0.0.1"
+  port: 3200
