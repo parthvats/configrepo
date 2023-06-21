@@ -1,7 +1,7 @@
 my:
-  greeting: Updated Hello World from Configrepo
+  greeting: Newly Updated Hello World from Configrepo
   list:
-    values: One, Two, Three, Four
+    values: One, Two, Three, Four, Five
 
 db:
   connection: test-connection-string-configrepo
