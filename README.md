@@ -1,5 +1,4 @@
-# configrepo
-Explanation of Config-Manager Wrapper Library
+# Explanation of Config-Manager Wrapper Library
 
 CONFIG SERVER:
 
