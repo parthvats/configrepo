@@ -3,15 +3,21 @@
 CONFIG SERVER:
 
 • The ConfigServerApplication class is the entry point of the Config Server application.
+
 • It is annotated with @SpringBootApplication, which enables Spring Boot auto-configuration.
+
 • The @EnableConfigServer annotation enables the Config Server functionality.
+
 • The main method starts the Spring Boot application.
+
 
 
 CONFIG CLIENT:
 
 • The ConfigClientApplication class is the entry point of the Config Client application.
+
 • It is annotated with @SpringBootApplication, which enables Spring Boot auto-configuration.
+
 • The main method starts the Spring Boot application.
 
 For configuration:
