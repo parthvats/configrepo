@@ -6,4 +6,4 @@ my:
 db:
   connection: test-connection-string-configrepo
   host: "129.0.0.1"
-  port: 3200
+  port: 8888
