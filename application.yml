@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World from Configrepo
+  greeting: Update Hello World from Configrepo
   list:
     values: One, Two, Three, Four, Five
 
