@@ -1,5 +1,5 @@
 my:
-  greeting: Update Hello World from Configrepo
+  greeting: Update Hello World from Configrepo master branch
   list:
     values: One, Two, Three, Four, Five
 
